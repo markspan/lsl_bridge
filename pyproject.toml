@@ -1,0 +1,13 @@
+[project]
+name = "lsl-bridge"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "nuitka>=4.0.8",
+    "pylsl>=1.18.1",
+    "pyserial>=3.5",
+    "pyside6>=6.11.0",
+    "serial>=0.0.97",
+]
