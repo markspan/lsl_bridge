@@ -10,4 +10,5 @@ dependencies = [
     "pyserial>=3.5",
     "pyside6>=6.11.0",
     "serial>=0.0.97",
+    "uv>=0.11.6",
 ]
